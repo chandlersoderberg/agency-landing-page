@@ -56,7 +56,7 @@ export const blogPosts = [
 export const testimonials = [
   {
     id: 1,
-    quote: "Working with Marketplace completely transformed our online presence. Their attention to detail and modern aesthetic is unmatched.",
+    quote: "Working with Northwind completely transformed our online presence. Their attention to detail and modern aesthetic is unmatched.",
     name: "Sarah Jenkins",
     role: "CMO at TechFlow",
     avatar: "/assets/avatar1_1785161437426.png"
@@ -77,7 +77,7 @@ export const testimonials = [
   },
   {
     id: 4,
-    quote: "Marketplace is by far the most professional design agency we've ever partnered with. Outstanding results.",
+    quote: "Northwind is by far the most professional design agency we've ever partnered with. Outstanding results.",
     name: "Marcus Thorne",
     role: "Director of Product",
     avatar: "/assets/avatar4_1785161490519.png"

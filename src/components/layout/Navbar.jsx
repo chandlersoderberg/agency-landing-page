@@ -26,7 +26,7 @@ export function Navbar() {
           {/* Logo */}
           <div className="flex-shrink-0">
             <a href="#" className="text-2xl font-bold text-[#F8FAFC] tracking-tight">
-              Marketplace<span className="text-[#F59E0B]">.</span>
+              Northwind<span className="text-[#F59E0B]">.</span>
             </a>
           </div>
 

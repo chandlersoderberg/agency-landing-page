@@ -39,7 +39,7 @@ export function Footer() {
               href="#"
               className="text-2xl font-bold text-[#F8FAFC] tracking-tight mb-4 inline-block"
             >
-              Marketplace<span className="text-[#F59E0B]">.</span>
+              Northwind<span className="text-[#F59E0B]">.</span>
             </a>
             <p className="text-[#94A3B8] max-w-sm mb-6 leading-relaxed">
               Great design is invisible. We build digital experiences that feel
@@ -160,7 +160,7 @@ export function Footer() {
 
         <div className="border-t border-[#1E3A5F] pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-[#94A3B8]">
           <p>
-            &copy; {new Date().getFullYear()} Marketplace. All rights reserved.
+            &copy; {new Date().getFullYear()} Northwind. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="hover:text-[#F8FAFC] transition-colors">
